@@ -1,5 +1,5 @@
 # discrete-random-variables
-This repository contains simulation files of important discrete random variables in MATLAB, and here the results of simulation have been shown.
+This repository contains simulation files of important discrete RVs in MATLAB, and here the results of simulation have been shown.
 
 <details><summary>Figure 1 shows the CDF of maximum and minimum of $X_1$, $X_2$ and $X_3$ ; in which $X_i$ are independent.</summary>
 $p_1$, $p_2$ and $p_3$ relatively represent the pmf of $X_1$, $X_2$ and $X_3$.
