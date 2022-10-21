@@ -1,5 +1,13 @@
 # discrete-random-variables
 
+
+<details><summary>Figure 1 shows the CDF of maximum and minimum of $X_1$, $X_2$ and $X_3$ ; in which $X_i$ are independent.</summary>
+$p_1$, $p_2$ and $p_3$ relatively represent the pmf of $X_1$, $X_2$ and $X_3$.
+<br>$p_1$ = [.1 .0 .9 .0]
+<br>$p_2$ = [.5 .2 .1 .2]
+<br>$p_3$ = [.4 .3 .2 .1]
+<br>The CDF of $X_{max} = max(X_1, X_2, X_3)$ and $X_{min} = min(X_1, X_2, X_3)$ have shown in figure 1.
+</details>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -10,7 +18,12 @@
     </td>
   </tr>
 </table>
-
+<div align=center>
+  <caption>figure 1: The CDF of max/min of $X_1$, $X_2$ and $X_3$</caption>
+</div>
+<br>
+<br>
+<p>Figure 2 shows the CDF and PMF of Bernoulli(p = 0.75) Distribution.</p>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -21,7 +34,11 @@
     </td>
   </tr>
 </table>
-
+<div align=center>
+  <caption>figure 2: the CDF and PMF of Bernoulli Distribution</caption>
+</div>
+<br>
+<br>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -79,11 +96,10 @@
 </table>
 
 <br>
-<br>
-<br>
 
 ### Requirements 🔧
 * <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter"/>
+* <img src="https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab"/>
 
 ### How to contribute to this repository 
 . Press the **Fork** button in order to save copy of this repo on your account.
