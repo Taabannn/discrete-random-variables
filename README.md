@@ -55,18 +55,30 @@ $p_1$, $p_2$ and $p_3$ relatively represent the pmf of $X_1$, $X_2$ and $X_3$.
 </div>
 <br>
 <br>
+<details><summary>Figure 4 shows the fact that when n -> $\infty$ and p -> 0 => Binomial(n, p) -> Poisson(λ = n $\times$ p)</summary>
+This figure has been plotted for n = 50 and p = 0.01.
+</details>
 <table width="100%">
   <tr>
     <div align=center><img src="figures/binovspoiss.jpg"/></div>
   </tr>
 </table>
-
+<div align=center>
+  <caption>figure 4: Binomial Distribution vs Poisson Distribution</caption>
+</div>
+<br>
+<br>
+<p>The PMF of Multinomial distribution X where X = $X_1$ + $X_2$ in which $X_1$~Binomial(3, 0.5), $X_2$~Binomial(4, 0.5) has been shown in figure 5.</p>
 <table width="100%">
   <tr>
     <div align=center><img src="figures/multinompmf.jpg"/></div>
   </tr>
 </table>
-
+<div align=center>
+  <caption>figure 5: The PMF of Multinomial Distribution</caption>
+</div>
+<br>
+<br>
 <table width="100%">
   <tr>
     <td width="50%">
