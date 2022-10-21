@@ -19,11 +19,11 @@ $p_1$, $p_2$ and $p_3$ relatively represent the pmf of $X_1$, $X_2$ and $X_3$.
   </tr>
 </table>
 <div align=center>
-  <caption>figure 1: The CDF of max/min of $X_1$, $X_2$ and $X_3$</caption>
+  <caption>figure 1: The CDF of Max/Min of $X_1$, $X_2$ and $X_3$</caption>
 </div>
 <br>
 <br>
-<p>Figure 2 shows the CDF and PMF of Bernoulli(p = 0.75) Distribution.</p>
+<p>Figure 2 shows the CDF and PMF of Bernoulli(p = 0.75) distribution.</p>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -35,10 +35,11 @@ $p_1$, $p_2$ and $p_3$ relatively represent the pmf of $X_1$, $X_2$ and $X_3$.
   </tr>
 </table>
 <div align=center>
-  <caption>figure 2: the CDF and PMF of Bernoulli Distribution</caption>
+  <caption>figure 2: The CDF and PMF of Bernoulli Distribution</caption>
 </div>
 <br>
 <br>
+<p>The CDF and PMF of Binomial(n = 10, p = 0.5) distribution have been shown in figure 3.</p>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -49,7 +50,11 @@ $p_1$, $p_2$ and $p_3$ relatively represent the pmf of $X_1$, $X_2$ and $X_3$.
     </td>
   </tr>
 </table>
-
+<div align=center>
+  <caption>figure 3: The CDF and PMF of Binomial Distribution</caption>
+</div>
+<br>
+<br>
 <table width="100%">
   <tr>
     <div align=center><img src="figures/binovspoiss.jpg"/></div>
