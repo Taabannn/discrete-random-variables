@@ -79,6 +79,7 @@ This figure has been plotted for n = 50 and p = 0.01.
 </div>
 <br>
 <br>
+<p>The CDF abd PMF of Geometric distribution with p = 0.5 have been shown in figure 6.</p>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -89,7 +90,12 @@ This figure has been plotted for n = 50 and p = 0.01.
     </td>
   </tr>
 </table>
-
+<div align=center>
+  <caption>figure 6: The CDF and PMF of Geometric Distribution</caption>
+</div>
+<br>
+<br>
+<p>The CDF and PMF of Negative Binomial distribution with R=3 and p = 0.5 have been shown in figure 7.</p>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -100,7 +106,12 @@ This figure has been plotted for n = 50 and p = 0.01.
     </td>
   </tr>
 </table>
-
+<div align=center>
+  <caption>figure 7: The CDF and PMF of Negative Binomial Distribution</caption>
+</div>
+<br>
+<br>
+<p>The CDF and PMF of Poisson distribution with λ=5 has been shown in figure 8.</p>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -111,7 +122,9 @@ This figure has been plotted for n = 50 and p = 0.01.
     </td>
   </tr>
 </table>
-
+<div align=center>
+  <caption>figure 8: The CDF and PMF of Poisson Distribution</caption>
+</div>
 <br>
 
 ### Requirements 🔧
